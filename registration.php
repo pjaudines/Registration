@@ -81,7 +81,7 @@
 
 	<script type="text/javascript">
 		function submit_form(){
-			alert("Thank you for your registration....");
+			alert("Thank you for your registration...");
 		}
 	</script>
 
